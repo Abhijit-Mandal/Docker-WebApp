@@ -14,6 +14,6 @@ _📌This app will help the user to run all the docker commands like:_
   - **docker exec**
   - **etc**
 
-Video tutorial on this task is [here.](https://youtu.be/rEwMoBlSc0s)
+***Video tutorial of this task is [here.](https://youtu.be/rEwMoBlSc0s)***
   
   ![App Preview](https://i.imgur.com/r2px9YL.png)
